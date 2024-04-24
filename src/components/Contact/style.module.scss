@@ -27,9 +27,11 @@
                     position: relative;
                     border-radius: 50%;
                     overflow: hidden;
+                    
 
                     img{
                         object-fit: cover;
+                        transform: scale(1.2);
                     }
                 }
                 h2{
